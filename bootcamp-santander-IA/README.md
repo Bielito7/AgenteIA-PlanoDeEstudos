@@ -19,17 +19,6 @@ Ao final dos 30 dias, você será capaz de:
 
 Para otimizar o aprendizado e manter a constância sem sobrecarregar sua rotina, utilize a seguinte divisão de tempo diária:
 
-```mermaid
-gantt
-    title Divisão Diária (60 minutos)
-    dateFormat  m
-    axisFormat %M
-    section Estudo
-    Revisão (Conteúdo Anterior)  :active, 0, 10m
-    Conceito Novo               : 10m, 35m
-    Prática & Código            : 35m, 55m
-    Anotações & Registro        : 55m, 60m
-```
 
 | Tempo | Atividade | Descrição |
 | :--- | :--- | :--- |
